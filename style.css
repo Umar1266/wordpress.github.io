@@ -1,0 +1,55 @@
+body{
+    width: 100%;
+    background-color: rgb(32, 32, 32);
+}
+header{
+    background-color: rgb(32, 32, 32);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.top img{
+    width: 12%;
+    display: inline-block;
+    /* padding-top: 2%; */
+    position: relative;
+    top: 10;
+}
+b{
+    margin-left: 2%;
+}
+#text{
+    position: relative;
+    top: 6;
+}
+.top button{
+    position: relative;
+    left: 45%;
+    height: 30;
+    font-size: medium;
+    font-weight: bold;
+}
+#log{
+    background-color: rgb(32, 32, 32);
+    color: white;
+    border: 2px solid rgb(32, 32, 32);
+}
+#head{
+    margin-left: 15%;
+    font-size: 65;
+    font-family: recoleta-web, Georgia, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+    margin-bottom: 30px;
+}
+#des{
+    margin-left: 15%;
+    letter-spacing: 1.2;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2;
+}
+#gs{
+    margin-left: 15%;
+    height: 50;
+    width: 160;
+    border: 2px solid white;
+    border-radius: 50px;
+
+}
